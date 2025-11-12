@@ -1,6 +1,5 @@
 # Projekti-2a
-# Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+Music Information APP utilizing Live JSON API from LiveFM - Sofia Sallinen & Erica Levola
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
